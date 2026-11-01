@@ -1,0 +1,6 @@
+{
+  "name": "Rique Deliveries & CCTV Solutions",
+  "description": "Professional CCTV Management System for installation tracking, maintenance requests, technician assignment, inventory, and quotations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
